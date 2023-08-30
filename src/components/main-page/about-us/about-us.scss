@@ -1,0 +1,16 @@
+.about{
+    .container{
+        max-width: 590px;
+        width: 100%;
+        padding: 80px 0 100px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    &__description{
+        margin-top: 40px;
+        color: #000;
+        font-size: 14px;
+        line-height: normal;
+    }
+    
+}

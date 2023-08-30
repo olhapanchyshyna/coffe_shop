@@ -1,0 +1,19 @@
+.best{
+    background: url("../../../assets/images/bg/best-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    .container{
+        max-width: 800px;
+        width: 100%;
+        padding: 80px 0 110px;
+        text-align: center;
+    }
+    &__title{
+        margin-bottom: 40px;
+    }
+    .product{
+        &__item{
+            background: rgba(255, 255, 255, 0.65);
+        }
+    }
+}
